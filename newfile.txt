@@ -1,2 +1,6 @@
 original data of the file
+
 change from Feature1 branch
+
+changefrom Feature2 branch
+

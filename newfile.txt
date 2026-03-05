@@ -1,1 +1,2 @@
-Hello, GitHub!
+original data of the file
+changefrom Feature2 branch
